@@ -16,8 +16,7 @@
   border: 2px solid #283655;
   display: inline-block;
 ">
-##Bem-vindo ao meu reino do código!
-
+  Bem-vindo ao meu reino do código!
 </div>
 Prepare-se para embarcar em uma jornada épica pelo universo da programação full stack, onde cada linha de código é uma magia e cada projeto é uma aventura!
 
