@@ -6,7 +6,7 @@
 <!-- Box estilizada para o título -->
 <div style="
   font-family: 'EB Garamond', serif;
-  font-size: 2.5em;
+  font-size: 5.5em;
   background: linear-gradient(90deg, #1a2238 0%, #283655 100%);
   color: #e0e6f7;
   border-radius: 16px;
@@ -18,13 +18,12 @@
 ">
   Bem-vindo ao meu reino do código!
 </div>
-Prepare-se para embarcar em uma jornada épica pelo universo da programação full stack, onde cada linha de código é uma magia e cada projeto é uma aventura!
 
 <br/>
 
 <div align="center">
 
-| ![Linguagens do Reino](https://github.com/Mvapmarcus/ReadmeGithub/blob/c851b510c1d7b98ad501930a75cf6018a27b9138/github_image/20250806_1339_Desenvolvedor%20M%C3%ADstico%20Noturno_remix_01k203xeeqey4b3eps092avyd3.png) | [![Detalhes do Herói](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=midnight_purple)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ![Mystical night-themed developer surrounded by magical symbols and glowing code elements, set in a dark fantasy environment. The image conveys a sense of wonder and creativity. Text in the image: Desenvolvedor Místico Noturno Remix](https://github.com/Mvapmarcus/ReadmeGithub/blob/c851b510c1d7b98ad501930a75cf6018a27b9138/github_image/20250806_1339_Desenvolvedor%20M%C3%ADstico%20Noturno_remix_01k203xeeqey4b3eps092avyd3.png) |
 | ----------- | ----------- |
 
 <hr/>
