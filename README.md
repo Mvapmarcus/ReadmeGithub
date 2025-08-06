@@ -1,35 +1,19 @@
 <div align="center">
 
-<!-- Adiciona EB Garamond via Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@700&display=swap" rel="stylesheet">
-
-<!-- Box estilizada para o título -->
-<div style="
-  font-family: 'EB Garamond', serif;
-  font-size: 5.5em;
-  background: linear-gradient(90deg, #1a2238 0%, #283655 100%);
-  color: #e0e6f7;
-  border-radius: 16px;
-  padding: 24px 32px;
-  margin-bottom: 16px;
-  box-shadow: 0 4px 16px #1a223880;
-  border: 2px solid #283655;
-  display: inline-block;
-">
-  Bem-vindo ao meu reino do código!
-</div>
+<!-- Título estilizado para melhor leitura no GitHub -->
+# <span style="font-family: 'EB Garamond', serif; font-size: 3em; color: #170c7bff;">Bem-vindo ao meu reino do código!</span>
 
 <br/>
 
 <div align="center">
 
-| ![Mystical night-themed developer surrounded by magical symbols and glowing code elements, set in a dark fantasy environment. The image conveys a sense of wonder and creativity. Text in the image: Desenvolvedor Místico Noturno Remix](https://github.com/Mvapmarcus/ReadmeGithub/blob/c851b510c1d7b98ad501930a75cf6018a27b9138/github_image/20250806_1339_Desenvolvedor%20M%C3%ADstico%20Noturno_remix_01k203xeeqey4b3eps092avyd3.png) |
-| ----------- | ----------- |
+| <img src="https://github.com/Mvapmarcus/ReadmeGithub/blob/c851b510c1d7b98ad501930a75cf6018a27b9138/github_image/20250806_1339_Desenvolvedor%20M%C3%ADstico%20Noturno_remix_01k203xeeqey4b3eps092avyd3.png" width="600" height="600" alt="imagem tema"/> |
+
 
 <hr/>
 
-| ![Contribuições do Feiticeiro](https://github-contributor-stats.vercel.app/api?username=SEU_USUARIO&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true) | <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"> |
-| ----------- | ----------- |
+| ![Contribuições do Feiticeiro]( |
+
 
 <hr/>
 
